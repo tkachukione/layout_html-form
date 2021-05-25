@@ -1,1 +1,11 @@
-/* styles go here */
+.personal-information,
+.Registration,
+.facts,
+.Additional,
+.Button {
+  margin-bottom: 20px;
+}
+ 
+.label-field {
+  margin-bottom: 10px;
+}
